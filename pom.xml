@@ -50,11 +50,7 @@
 						<keepAs3Metadata>Inject</keepAs3Metadata>
 					</keepAs3Metadatas>
 					<includeTestFiles>
-		              <param>CommandDataTest.as</param>
-		              <param>CommandExecutionTest.as</param>
-		              <param>CommandFlowTest.as</param>
-		              <param>CommandGroupTest.as</param>
-		              <param>LightCommandTest.as</param>
+		              <param>CommandSuite.as</param>
 		            </includeTestFiles>
                 </configuration>
             </plugin>
